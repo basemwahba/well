@@ -1,3 +1,0 @@
-staticman:
-  api: "https://anasbasem.herokuapp.com/v2/entry/basemwahba/rana/master/comments"
-  path: "_data/comments"
